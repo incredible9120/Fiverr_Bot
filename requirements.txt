@@ -1,0 +1,14 @@
+DrissionPage
+SpeechRecognition
+selenium
+aiohttp
+pydub
+requests_html
+bs4
+lxml_html_clean
+undetected_chromedriver
+selenium-wire
+webdriver_manager
+blinker==1.5
+setuptools
+dotenv
